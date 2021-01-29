@@ -23,6 +23,3 @@ function startServer(err, res){
         console.log("listening on port "+server.address().port)
     }
 }
-
-
-
